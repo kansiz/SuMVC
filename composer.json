@@ -1,0 +1,8 @@
+{
+    "name": "kansiz/sumvc",
+    "description": "SuMVC",
+    "require": {
+        "php": "^8.0",
+        "another-vendor/package": "1.*"
+    }
+}
